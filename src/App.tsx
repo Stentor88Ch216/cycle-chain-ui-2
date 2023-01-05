@@ -6,7 +6,7 @@ import Button from '@mui/joy/Button';
 function App() {
   return (
       <Stack justifyContent="center" alignItems="center" spacing={1}>
-        <Typography level="h3">Welcome to CycleChain</Typography>
+        <Typography level="h3">Welcome to CycleChain !</Typography>
         <Button>Connect</Button>
       </Stack>
   );
